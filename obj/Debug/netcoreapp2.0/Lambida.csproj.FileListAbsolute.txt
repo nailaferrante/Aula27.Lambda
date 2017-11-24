@@ -1,0 +1,10 @@
+C:\Users\fic.INFO\backend\Lambida\bin\Debug\netcoreapp2.0\Lambida.deps.json
+C:\Users\fic.INFO\backend\Lambida\bin\Debug\netcoreapp2.0\Lambida.runtimeconfig.json
+C:\Users\fic.INFO\backend\Lambida\bin\Debug\netcoreapp2.0\Lambida.runtimeconfig.dev.json
+C:\Users\fic.INFO\backend\Lambida\bin\Debug\netcoreapp2.0\Lambida.dll
+C:\Users\fic.INFO\backend\Lambida\bin\Debug\netcoreapp2.0\Lambida.pdb
+C:\Users\fic.INFO\backend\Lambida\obj\Debug\netcoreapp2.0\Lambida.csproj.CoreCompileInputs.cache
+C:\Users\fic.INFO\backend\Lambida\obj\Debug\netcoreapp2.0\Lambida.AssemblyInfoInputs.cache
+C:\Users\fic.INFO\backend\Lambida\obj\Debug\netcoreapp2.0\Lambida.AssemblyInfo.cs
+C:\Users\fic.INFO\backend\Lambida\obj\Debug\netcoreapp2.0\Lambida.dll
+C:\Users\fic.INFO\backend\Lambida\obj\Debug\netcoreapp2.0\Lambida.pdb
